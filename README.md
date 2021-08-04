@@ -8,3 +8,4 @@ This repository contains the MSSQL scripts for clinical cohorts used in the abov
 ## Key refs
 - PhenotypeLibrary: https://data.ohdsi.org/PhenotypeLibrary/
 - You, S. C. et al. JAMA 324, 1640-1650, doi:10.1001/jama.2020.16167 (2020).
+- Athena: https://athena.ohdsi.org/
